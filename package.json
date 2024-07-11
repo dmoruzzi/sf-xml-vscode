@@ -1,10 +1,23 @@
 {
   "name": "sf-xml",
-  "displayName": "sf-xml",
-  "description": "Salesforce XML formatter",
+  "displayName": "Salesforce XML Beautifier",
+  "description": "Salesforce XML beautifiation for XML metadata files",
   "version": "0.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.91.0"
+  },
+  "publisher": "dmoruzzi",
+  "author": {
+    "name": "David Moruzzi",
+    "url": "https://dmoruzzi.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmoruzzi/sf-xml-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/dmoruzzi/sf-xml-vscode/issues"
   },
   "categories": [
     "Other"
