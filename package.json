@@ -2,7 +2,7 @@
   "name": "sf-xml",
   "displayName": "Salesforce XML Beautifier",
   "description": "Salesforce XML beautifiation for XML metadata files",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.91.0"
@@ -37,12 +37,6 @@
           "XML",
           "xml"
         ]
-      }
-    ],
-    "commands": [
-      {
-        "command": "extension.formatSalesforceXML",
-        "title": "Format Salesforce XML"
       }
     ]
   },
