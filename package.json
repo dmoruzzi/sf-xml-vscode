@@ -38,12 +38,6 @@
           "xml"
         ]
       }
-    ],
-    "commands": [
-      {
-        "command": "extension.formatSalesforceXML",
-        "title": "Format Salesforce XML"
-      }
     ]
   },
   "scripts": {
